@@ -1,5 +1,5 @@
 ## BrundevCoder Here, Hello! 👋
-I'm a front-end developer, and I also know Python.
+<b>I'm a front-end developer, and I also know Python.</b>
 
 <div align="center">
   <a href="https://github.com/BrundevCoder">
