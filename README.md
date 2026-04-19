@@ -8,7 +8,7 @@
 </div>
 
 <div align="center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie)](https://github.com/BrundevCoder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie&theme=transparent)](https://github.com/BrundevCoder/github-readme-stats)
