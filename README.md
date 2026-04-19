@@ -8,10 +8,6 @@ I'm a front-end developer, and I also know Python.
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie&theme=transparent" />
-</div>
-
 ### Languages:
 - HTML5
 - CSS3
