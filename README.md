@@ -1,6 +1,6 @@
 ## BrundevCoder Here, Hello! 👋
 
-- Favourite Language: JS
+- 🏆 Favourite Language: JS
 
 <div align="center">
   <a href="LINK_PARA_ONDE_VOCE_QUER_ENVIAR_O_CLIQUE">
