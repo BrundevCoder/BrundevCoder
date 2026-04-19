@@ -8,7 +8,8 @@
 </div>
 
 <div align="center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie&theme=transparent" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrundevCoder&layout=pie&theme=transparent)](https://github.com/BrundevCoder/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrundevCoder&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
