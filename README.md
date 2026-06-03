@@ -7,3 +7,4 @@
 - JavaScript
 - React
 - Python
+- Dart (just the basic)
