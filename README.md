@@ -4,7 +4,7 @@
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=32365&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ### Languages I know:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,php,react,python,c,md,lua&perline=13)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,md,lua&perline=13)
 <br>
 
 ### Apps/things I use:
